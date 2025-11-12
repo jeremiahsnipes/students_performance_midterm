@@ -25,9 +25,11 @@ The model was trained using a **RandomForestClassifier** from `scikit-learn`.
 4. Save the model as `model.pkl` using `joblib`.
 
 **Script:** `train_model.py`  
-**Example Output:**
-Accuracy: 0.23
-Model trained and saved as model.pkl
+**Best Parameters:**  
+`{'max_depth': 10, 'min_samples_split': 5, 'n_estimators': 300}`  
+
+**Final Accuracy:** `0.345` (34.5%)  
+The model achieved modest accuracy due to the weak correlation between exam scores and race/ethnicity categories, but it successfully demonstrates the full ML deployment workflow.
 
 ---
 
