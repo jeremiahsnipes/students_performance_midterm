@@ -32,10 +32,13 @@ Model trained and saved as model.pkl
 ---
 
 📂 File Structure
-app.py
-train_model.py
-model.pkl
-requirements.txt
-Procfile
-templates/index.html
-.github/workflows/deploy.yml
+- app.py
+- train_model.py
+- model.pkl
+- requirements.txt
+- Procfile
+- templates/
+  - index.html
+- .github/
+  - workflows/
+  - deploy.yml
