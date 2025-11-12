@@ -1,7 +1,7 @@
 # 🎓 Student Performance ML Deployment
 
-This This project was developed as part of the **ANA680: Machine Learning Deployment** midterm.  
-The goal is to train a machine learning model that predicts a student's **race/ethnicity** from their **math, reading, and writing scores**, then deploy it to **Heroku** using a **CI/CD pipeline** through **GitHub Actions**.
+This project trains a machine learning model to predict a student's race/ethnicity using their math, reading, and writing scores.  
+The model was built in Python, tested locally, and deployed on Heroku through a connected GitHub repo for continuous integration and delivery.
 
 ---
 
@@ -44,3 +44,13 @@ The model achieved modest accuracy due to the weak correlation between exam scor
 - .github/
   - workflows/
   - deploy.yml
+
+## 🌐 Live App
+Heroku: [https://students-performance-midterm-js.herokuapp.com/]([https://students-performance-midterm.herokuapp.com/](https://students-performance-midterm-ac846ab83c16.herokuapp.com/))  
+GitHub: [https://github.com/jeremiahsnipes/students_performance_midterm](https://github.com/jeremiahsnipes/students_performance_midterm)
+
+---
+
+## 🖥️ Screenshot
+**Model running locally**
+![Model running locally](Model%20running%20locally.png)
