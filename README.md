@@ -46,7 +46,7 @@ The model achieved modest accuracy due to the weak correlation between exam scor
   - deploy.yml
 
 ## 🌐 Live App
-Heroku: [https://students-performance-midterm-js.herokuapp.com/]([(https://students-performance-midterm-ac846ab83c16.herokuapp.com/))  
+Heroku: [https://students-performance-midterm.herokuapp.com/](https://students-performance-midterm-ac846ab83c16.herokuapp.com/)  
 GitHub: [https://github.com/jeremiahsnipes/students_performance_midterm](https://github.com/jeremiahsnipes/students_performance_midterm)
 
 ---
